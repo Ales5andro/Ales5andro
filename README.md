@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ales5andro / olá eu sou Alessandro
+- 👋 Hi, I’m @Alessandro / olá eu sou Alessandro
 - Atualmente sou estudante de Ciência da computação. 
 - Tenho um grande interesse sobre back-end. 
 - E sou um entusiasta em segurança da informação.
